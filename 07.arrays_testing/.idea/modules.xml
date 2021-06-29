@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/07.arrays_testing.iml" filepath="$PROJECT_DIR$/07.arrays_testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08.managing_precision_BigDecimal/08.managing_precision_BigDecimal.iml" filepath="$PROJECT_DIR$/../08.managing_precision_BigDecimal/08.managing_precision_BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09.math_class/09.math_class.iml" filepath="$PROJECT_DIR$/../09.math_class/09.math_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10.console_applications/10.console_applications.iml" filepath="$PROJECT_DIR$/../10.console_applications/10.console_applications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11.string_formatting_and_regex/11.string_formatting_and_regex.iml" filepath="$PROJECT_DIR$/../11.string_formatting_and_regex/11.string_formatting_and_regex.iml" />
+    </modules>
+  </component>
+</project>
