@@ -7,6 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/../09.math_class/09.math_class.iml" filepath="$PROJECT_DIR$/../09.math_class/09.math_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/../10.console_applications/10.console_applications.iml" filepath="$PROJECT_DIR$/../10.console_applications/10.console_applications.iml" />
       <module fileurl="file://$PROJECT_DIR$/../11.string_formatting_and_regex/11.string_formatting_and_regex.iml" filepath="$PROJECT_DIR$/../11.string_formatting_and_regex/11.string_formatting_and_regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12.if_else_examples/12.if_else_examples.iml" filepath="$PROJECT_DIR$/../12.if_else_examples/12.if_else_examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13.switch_case/13.switch_case.iml" filepath="$PROJECT_DIR$/../13.switch_case/13.switch_case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14.random_integers/14.random_integers.iml" filepath="$PROJECT_DIR$/../14.random_integers/14.random_integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../15.loops/15.loops.iml" filepath="$PROJECT_DIR$/../15.loops/15.loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../16.methods/16.methods.iml" filepath="$PROJECT_DIR$/../16.methods/16.methods.iml" />
     </modules>
   </component>
 </project>
