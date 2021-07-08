@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/../14.random_integers/14.random_integers.iml" filepath="$PROJECT_DIR$/../14.random_integers/14.random_integers.iml" />
       <module fileurl="file://$PROJECT_DIR$/../15.loops/15.loops.iml" filepath="$PROJECT_DIR$/../15.loops/15.loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/../16.methods/16.methods.iml" filepath="$PROJECT_DIR$/../16.methods/16.methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../17.enum_types/17.enum_types.iml" filepath="$PROJECT_DIR$/../17.enum_types/17.enum_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../18.project_payment_transaction/18.project_payment_transaction.iml" filepath="$PROJECT_DIR$/../18.project_payment_transaction/18.project_payment_transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../19.project_books_management/19.project_books_management.iml" filepath="$PROJECT_DIR$/../19.project_books_management/19.project_books_management.iml" />
     </modules>
   </component>
 </project>

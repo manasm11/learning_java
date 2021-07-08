@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/19.project_books_management.iml" filepath="$PROJECT_DIR$/19.project_books_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20.arraylist_vs_linkedlist/20.arraylist_vs_linkedlist.iml" filepath="$PROJECT_DIR$/../20.arraylist_vs_linkedlist/20.arraylist_vs_linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../21.foreach_loop/21.foreach_loop.iml" filepath="$PROJECT_DIR$/../21.foreach_loop/21.foreach_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../22.iterators/22.iterators.iml" filepath="$PROJECT_DIR$/../22.iterators/22.iterators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../23.lru_cache/23.lru_cache.iml" filepath="$PROJECT_DIR$/../23.lru_cache/23.lru_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../24.functional_programming/24.functional_programming.iml" filepath="$PROJECT_DIR$/../24.functional_programming/24.functional_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../25.stream_api_book_filtering/25.stream_api_book_filtering.iml" filepath="$PROJECT_DIR$/../25.stream_api_book_filtering/25.stream_api_book_filtering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../26.stream_api_sweets_filtering/26.stream_api_sweets_filtering.iml" filepath="$PROJECT_DIR$/../26.stream_api_sweets_filtering/26.stream_api_sweets_filtering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../27.file_io_reading_config_file/27.file_io_reading_config_file.iml" filepath="$PROJECT_DIR$/../27.file_io_reading_config_file/27.file_io_reading_config_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../28.file_handling_counting_files/28.file_handling_counting_files.iml" filepath="$PROJECT_DIR$/../28.file_handling_counting_files/28.file_handling_counting_files.iml" />
+    </modules>
+  </component>
+</project>
