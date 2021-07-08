@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/../26.stream_api_sweets_filtering/26.stream_api_sweets_filtering.iml" filepath="$PROJECT_DIR$/../26.stream_api_sweets_filtering/26.stream_api_sweets_filtering.iml" />
       <module fileurl="file://$PROJECT_DIR$/../27.file_io_reading_config_file/27.file_io_reading_config_file.iml" filepath="$PROJECT_DIR$/../27.file_io_reading_config_file/27.file_io_reading_config_file.iml" />
       <module fileurl="file://$PROJECT_DIR$/../28.file_handling_counting_files/28.file_handling_counting_files.iml" filepath="$PROJECT_DIR$/../28.file_handling_counting_files/28.file_handling_counting_files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../29.http_requests/29.http_requests.iml" filepath="$PROJECT_DIR$/../29.http_requests/29.http_requests.iml" />
     </modules>
   </component>
 </project>
