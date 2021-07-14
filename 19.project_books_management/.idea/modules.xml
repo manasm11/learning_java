@@ -13,6 +13,14 @@
       <module fileurl="file://$PROJECT_DIR$/../27.file_io_reading_config_file/27.file_io_reading_config_file.iml" filepath="$PROJECT_DIR$/../27.file_io_reading_config_file/27.file_io_reading_config_file.iml" />
       <module fileurl="file://$PROJECT_DIR$/../28.file_handling_counting_files/28.file_handling_counting_files.iml" filepath="$PROJECT_DIR$/../28.file_handling_counting_files/28.file_handling_counting_files.iml" />
       <module fileurl="file://$PROJECT_DIR$/../29.http_requests/29.http_requests.iml" filepath="$PROJECT_DIR$/../29.http_requests/29.http_requests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../30.interacting_with_backend/30.interacting_with_backend.iml" filepath="$PROJECT_DIR$/../30.interacting_with_backend/30.interacting_with_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../31.runnable_experiment/31.runnable_experiment.iml" filepath="$PROJECT_DIR$/../31.runnable_experiment/31.runnable_experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../32.loading_simulator/32.loading_simulator.iml" filepath="$PROJECT_DIR$/../32.loading_simulator/32.loading_simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../33.syncronised_keyword/33.syncronised_keyword.iml" filepath="$PROJECT_DIR$/../33.syncronised_keyword/33.syncronised_keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34.deadlock/34.deadlock.iml" filepath="$PROJECT_DIR$/../34.deadlock/34.deadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../35.junit_testing/35.junit_testing.iml" filepath="$PROJECT_DIR$/../35.junit_testing/35.junit_testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../36.learning_gradle/36.learning_gradle.iml" filepath="$PROJECT_DIR$/../36.learning_gradle/36.learning_gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../35.junit_testing/test.iml" filepath="$PROJECT_DIR$/../35.junit_testing/test.iml" />
     </modules>
   </component>
 </project>
