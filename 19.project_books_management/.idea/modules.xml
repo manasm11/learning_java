@@ -19,7 +19,8 @@
       <module fileurl="file://$PROJECT_DIR$/../33.syncronised_keyword/33.syncronised_keyword.iml" filepath="$PROJECT_DIR$/../33.syncronised_keyword/33.syncronised_keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/../34.deadlock/34.deadlock.iml" filepath="$PROJECT_DIR$/../34.deadlock/34.deadlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/../35.junit_testing/35.junit_testing.iml" filepath="$PROJECT_DIR$/../35.junit_testing/35.junit_testing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../36.learning_gradle/36.learning_gradle.iml" filepath="$PROJECT_DIR$/../36.learning_gradle/36.learning_gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../36.learning_groovy/36.learning_groovy.iml" filepath="$PROJECT_DIR$/../36.learning_groovy/36.learning_groovy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../37.trying_kotlin/37.trying_kotlin.iml" filepath="$PROJECT_DIR$/../37.trying_kotlin/37.trying_kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/../35.junit_testing/test.iml" filepath="$PROJECT_DIR$/../35.junit_testing/test.iml" />
     </modules>
   </component>
