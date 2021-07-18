@@ -1,5 +1,6 @@
 package com.example.trying_with_idea_ultimate.resources;
 
+import com.example.trying_with_idea_ultimate.models.Link;
 import com.example.trying_with_idea_ultimate.models.Message;
 import com.example.trying_with_idea_ultimate.resources.beans.MessageFilterBean;
 import com.example.trying_with_idea_ultimate.services.MessageService;
@@ -42,8 +43,18 @@ public class MessageResource {
 
     @GET
     @Path("/{messageId}")
-    public Message getMessage(@PathParam("messageId") Long messageId) {
-        return messageService.getMessage(messageId);
+    public Message getMessage(@PathParam("messageId") Long messageId, @Context UriInfo uriInfo) {
+        Message message = messageService.getMessage(messageId);
+        message.addLink("self", getMessageSelfUri(messageId, uriInfo));
+        return message;
+    }
+
+
+    private String getMessageSelfUri(Long messageId, UriInfo uriInfo) {
+        return uriInfo.getBaseUriBuilder()
+                .path(MessageResource.class)
+                .path(messageId.toString())
+                .build().toString();
     }
 
     @PUT

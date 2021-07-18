@@ -1,16 +1,18 @@
 package com.example.trying_with_idea_ultimate.models;
 
-import javax.validation.constraints.NotNull;
-import javax.xml.bind.annotation.XmlRootElement;
-import java.util.Date;
-
+import java.beans.Transient;
+import java.util.*;
 
 public class Message {
     private long id;
     private String message;
     private Date created;
     private String author;
+    private Map<String, String> links = new HashMap<>();
+//    private List<Link> links = new ArrayList<>();
 
+
+    //    @Transient
     public Long getId() {
         return id;
     }
@@ -62,4 +64,24 @@ public class Message {
         this.created = created;
         this.author = author;
     }
+
+    public Map<String, String> getLinks() {
+        return links;
+    }
+
+    public void setLinks(Map<String, String> links) {
+        this.links = links;
+    }
+
+    public void addLink(String rel, String link) {
+        links.put(rel, link);
+    }
+
+//    public List<Link> getLinks() {
+//        return links;
+//    }
+
+//    public void setLinks(List<Link> links) {
+//        this.links = links;
+//    }
 }
