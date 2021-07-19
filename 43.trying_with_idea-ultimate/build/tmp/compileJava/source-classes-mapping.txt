@@ -1,0 +1,32 @@
+com/example/trying_with_idea_ultimate/HelloResource.java
+ com.example.trying_with_idea_ultimate.HelloResource
+com/example/trying_with_idea_ultimate/resources/CommentResource.java
+ com.example.trying_with_idea_ultimate.resources.CommentResource
+com/example/trying_with_idea_ultimate/resources/InjectDemoResource.java
+ com.example.trying_with_idea_ultimate.resources.InjectDemoResource
+com/example/trying_with_idea_ultimate/services/ProfileService.java
+ com.example.trying_with_idea_ultimate.services.ProfileService
+com/example/trying_with_idea_ultimate/resources/ProfileResource.java
+ com.example.trying_with_idea_ultimate.resources.ProfileResource
+com/example/trying_with_idea_ultimate/interfaces/ProfileServicesInterface.java
+ com.example.trying_with_idea_ultimate.interfaces.ProfileServicesInterface
+com/example/trying_with_idea_ultimate/resources/beans/MessageFilterBean.java
+ com.example.trying_with_idea_ultimate.resources.beans.MessageFilterBean
+com/example/trying_with_idea_ultimate/models/Profile.java
+ com.example.trying_with_idea_ultimate.models.Profile
+com/example/trying_with_idea_ultimate/exceptions/GenericExceptionMapper.java
+ com.example.trying_with_idea_ultimate.exceptions.GenericExceptionMapper
+com/example/trying_with_idea_ultimate/models/ErrorMessage.java
+ com.example.trying_with_idea_ultimate.models.ErrorMessage
+com/example/trying_with_idea_ultimate/models/Link.java
+ com.example.trying_with_idea_ultimate.models.Link
+com/example/trying_with_idea_ultimate/services/MessageService.java
+ com.example.trying_with_idea_ultimate.services.MessageService
+com/example/trying_with_idea_ultimate/databases/DatabaseClass.java
+ com.example.trying_with_idea_ultimate.databases.DatabaseClass
+com/example/trying_with_idea_ultimate/interfaces/MessageServiceInterface.java
+ com.example.trying_with_idea_ultimate.interfaces.MessageServiceInterface
+com/example/trying_with_idea_ultimate/models/Message.java
+ com.example.trying_with_idea_ultimate.models.Message
+com/example/trying_with_idea_ultimate/resources/MessageResource.java
+ com.example.trying_with_idea_ultimate.resources.MessageResource
