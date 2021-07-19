@@ -1,5 +1,7 @@
 package com.example.tryinh_with_tomee_jdk11.models;
 
+import java.util.Objects;
+
 public class Contact {
     String name;
     String phone;
@@ -36,5 +38,18 @@ public class Contact {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Contact)) return false;
+        Contact contact = (Contact) o;
+        return getName().equals(contact.getName());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getName());
     }
 }

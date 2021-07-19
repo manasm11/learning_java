@@ -1,10 +1,16 @@
-com/example/tryinh_with_tomee_jdk11/models/Contact.java
- com.example.tryinh_with_tomee_jdk11.models.Contact
-com/example/tryinh_with_tomee_jdk11/services/ContactService.java
- com.example.tryinh_with_tomee_jdk11.services.ContactService
+com/example/tryinh_with_tomee_jdk11/exceptions/ContactNameNotDefinedException.java
+ com.example.tryinh_with_tomee_jdk11.exceptions.ContactNameNotDefinedException
+com/example/tryinh_with_tomee_jdk11/exceptions/ContactAlreadyExistsException.java
+ com.example.tryinh_with_tomee_jdk11.exceptions.ContactAlreadyExistsException
 com/example/tryinh_with_tomee_jdk11/interfaces/ContactServiceInterface.java
  com.example.tryinh_with_tomee_jdk11.interfaces.ContactServiceInterface
-com/example/tryinh_with_tomee_jdk11/resources/ContactResource.java
- com.example.tryinh_with_tomee_jdk11.resources.ContactResource
 com/example/tryinh_with_tomee_jdk11/resources/TestResource.java
  com.example.tryinh_with_tomee_jdk11.resources.TestResource
+com/example/tryinh_with_tomee_jdk11/models/Contact.java
+ com.example.tryinh_with_tomee_jdk11.models.Contact
+com/example/tryinh_with_tomee_jdk11/exceptions/ContactDoesntExistsException.java
+ com.example.tryinh_with_tomee_jdk11.exceptions.ContactDoesntExistsException
+com/example/tryinh_with_tomee_jdk11/services/ContactService.java
+ com.example.tryinh_with_tomee_jdk11.services.ContactService
+com/example/tryinh_with_tomee_jdk11/resources/ContactResource.java
+ com.example.tryinh_with_tomee_jdk11.resources.ContactResource
