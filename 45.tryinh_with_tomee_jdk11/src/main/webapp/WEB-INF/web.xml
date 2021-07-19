@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+    <servlet>
+        <servlet-name>hello</servlet-name>
+        <servlet-class>org.glassfish.jersey.servlet.ServletContainer</servlet-class>
+        <init-param>
+            <param-name>jersey.config.server.provider.packages</param-name>
+            <param-value>com.example.tryinh_with_tomee_jdk11</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>hello</servlet-name>
+        <url-pattern>/*</url-pattern>
+    </servlet-mapping>
+</web-app>
