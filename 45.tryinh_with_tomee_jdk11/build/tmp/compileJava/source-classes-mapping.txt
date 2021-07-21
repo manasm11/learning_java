@@ -14,3 +14,7 @@ com/example/tryinh_with_tomee_jdk11/services/ContactService.java
  com.example.tryinh_with_tomee_jdk11.services.ContactService
 com/example/tryinh_with_tomee_jdk11/resources/ContactResource.java
  com.example.tryinh_with_tomee_jdk11.resources.ContactResource
+com/example/tryinh_with_tomee_jdk11/models/ErrorResponse.java
+ com.example.tryinh_with_tomee_jdk11.models.ErrorResponse
+com/example/tryinh_with_tomee_jdk11/exceptions/GenericExceptionMapper.java
+ com.example.tryinh_with_tomee_jdk11.exceptions.GenericExceptionMapper
