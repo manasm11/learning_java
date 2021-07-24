@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing01.StringTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-24T10:58:07" hostname="mm" time="0.116">
+  <properties/>
+  <testcase name="&quot;abcd&quot;.length() == 4" classname="testing01.StringTest" time="0.084"/>
+  <testcase name="&quot;&quot;.length() == 0" classname="testing01.StringTest" time="0.003"/>
+  <testcase name="&quot;ksdjfvbsdujvnikffsudjbviokfsdujbvgs&quot;.length() == 35" classname="testing01.StringTest" time="0.01"/>
+  <system-out><![CDATA[### "abcd".length() == 4 ###
+### "".length() == 0 ###
+### "ksdjfvbsdujvnikffsudjbviokfsdujbvgs".length() == 35 ###
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

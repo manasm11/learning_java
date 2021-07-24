@@ -1,0 +1,3 @@
+### "abcd".length() == 4 ###
+### "".length() == 0 ###
+=### "ksdjfvbsdujvnikffsudjbviokfsdujbvgs".length() == 35 ###
