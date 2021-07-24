@@ -1,0 +1,8 @@
+com/manas/mockito/UserTest.java
+ com.manas.mockito.UserTest
+com/manas/mockito/data/UserRepositoryTest.java
+ com.manas.mockito.data.UserRepositoryTest
+com/manas/mockito/service/AuthenticationServiceTest.java
+ com.manas.mockito.service.AuthenticationServiceTest
+com/manas/mockito/web/LoginControllerTest.java
+ com.manas.mockito.web.LoginControllerTest

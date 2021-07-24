@@ -1,0 +1,2 @@
+com/manas/calculator/CalculatorTest.java
+ com.manas.calculator.CalculatorTest
