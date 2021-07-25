@@ -7,6 +7,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
 
+import java.time.Duration;
 import java.util.Locale;
 
 public class StringTest {
@@ -26,6 +27,32 @@ public class StringTest {
     }
 
     @Test
+    void performanceTest() {
+        assertTimeout(Duration.ofSeconds(1), () -> {
+            for (int i = 0; i < 100000; i++) {
+                int j = ++i;
+                System.out.println(j + " Ab to fail hona chahiye");
+                i--;
+            }
+        });
+    }
+
+    @Nested
+    class EmptyString {
+        String string;
+
+        @BeforeEach
+        void beforeEach() {
+            string = "";
+        }
+
+        @Test
+        void stringLength() {
+            assertEquals(0, string.length());
+        }
+    }
+
+    @RepeatedTest(value = 5)
     @DisplayName("Length of string returned by string.length() is greater than zero.")
     void test3() {
 //        fail("Kuchh bhoot badi gadbad hai !!!");
