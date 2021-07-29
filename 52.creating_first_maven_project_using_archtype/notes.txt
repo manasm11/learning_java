@@ -3,3 +3,17 @@ Command: mvn archetype:generate
 Archtype: Template for a project.
 Group ID: ID for a group of maven projects (May be same as package).
 Artifact ID: Unique project ID in Group of maven projects.
+
+Artifact ID ending with -SNAPSHOT are under development.
+
+Maven Coordinate
+Group ID, Artifact ID, Version, Packaging(jar, war, ear, etc).
+
+To compile project,
+mvn compile
+
+To test project,
+mvn test
+
+To package the project,
+mvn package
