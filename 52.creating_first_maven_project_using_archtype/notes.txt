@@ -1,0 +1,5 @@
+Command: mvn archetype:generate
+
+Archtype: Template for a project.
+Group ID: ID for a group of maven projects (May be same as package).
+Artifact ID: Unique project ID in Group of maven projects.
