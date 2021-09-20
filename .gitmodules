@@ -1,0 +1,3 @@
+[submodule "learning_spring"]
+	path = learning_spring
+	url = git@github.com:manasm11/spring5webapp.git
